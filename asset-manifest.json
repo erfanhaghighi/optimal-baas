@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/optimal-baas/static/css/main.60c4df96.css",
-    "main.js": "/optimal-baas/static/js/main.ab75deb3.js",
+    "main.css": "/optimal-baas/static/css/main.4dc59262.css",
+    "main.js": "/optimal-baas/static/js/main.9ac65f22.js",
     "index.html": "/optimal-baas/index.html",
-    "main.60c4df96.css.map": "/optimal-baas/static/css/main.60c4df96.css.map",
-    "main.ab75deb3.js.map": "/optimal-baas/static/js/main.ab75deb3.js.map"
+    "main.4dc59262.css.map": "/optimal-baas/static/css/main.4dc59262.css.map",
+    "main.9ac65f22.js.map": "/optimal-baas/static/js/main.9ac65f22.js.map"
   },
   "entrypoints": [
-    "static/css/main.60c4df96.css",
-    "static/js/main.ab75deb3.js"
+    "static/css/main.4dc59262.css",
+    "static/js/main.9ac65f22.js"
   ]
 }
