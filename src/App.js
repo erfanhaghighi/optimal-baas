@@ -7,7 +7,7 @@ function App() {
 
     return (
         <div className="container">
-            <h1 className="title">Optimal BaaS - Weather Dashboard</h1>
+            <h1 className="title">Optimal BaaS Dashboard</h1>
             
             {/* Weather Chart Component */}
             <WeatherChart showLiveData={showLiveData} />
